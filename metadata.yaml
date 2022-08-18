@@ -1,11 +1,16 @@
 _repo: Ancient-Rome-in-the-English-novel-a-study-in-English-historical-fiction_68741
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68741-h/images/cover.jpg
 creator:
   author:
     agent_name: Randolph Faries, 2d
     gutenberg_agent_id: '54925'
     url: http://www.gutenberg.org/2009/agents/54925
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68741#Ancient-Rome-in-the-English-novel-a-study-in-English-historical-fiction
 gutenberg_issued: '2022-08-13'
 identifiers:
   gutenberg: '68741'
